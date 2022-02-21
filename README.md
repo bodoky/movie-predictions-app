@@ -1,4 +1,4 @@
-# moviepredictions
+# movie-predictions-app
 
 ## Project setup
 ```
